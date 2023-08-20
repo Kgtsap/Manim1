@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/4266129954_1288267113_223132457.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_4258179546_2090345794.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_645682970_2128323308.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_1660347375_3323014871.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_3555798876_523903246.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_2533974666_4174018169.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_1847412024_3495837824.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_645682970_163700086.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_321793063_189655877.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/BezierAndRoundedAngle/1442284246_3294717956_3273596376.mp4'

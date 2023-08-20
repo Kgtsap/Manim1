@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/4266129954_1108769693_223132457.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_2830753314_3350830170.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_329969645_4047819546.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_1305124673_645804623.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_2625645954_3547520947.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_2372510274_3828168139.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_645682970_1794438315.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_2048285432_1718974802.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_329969645_2290485890.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_4016946268_1983931398.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_2054956051_2626664035.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArcShapes/1442284246_4219759691_4189295365.mp4'

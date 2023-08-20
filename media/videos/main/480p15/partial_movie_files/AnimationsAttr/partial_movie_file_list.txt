@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/AnimationsAttr/4266129954_2516824737_223132457.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/AnimationsAttr/1442284246_3184396312_1799037694.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/AnimationsAttr/1442284246_4124621042_2326473733.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/AnimationsAttr/1442284246_1568202644_2358810818.mp4'

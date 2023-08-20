@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/4266129954_2106694389_223132457.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/1442284246_329969645_4166953632.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/1442284246_2438653427_2900404683.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/1442284246_329969645_3547520947.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/1442284246_1991913130_3828168139.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/1442284246_329969645_1299348372.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/1442284246_4017488201_1928902816.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/PolygonalShapes/1442284246_908082877_4063822890.mp4'

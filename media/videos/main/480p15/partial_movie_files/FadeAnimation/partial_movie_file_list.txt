@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/4266129954_1088334269_223132457.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_329969645_1170193463.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_3504031253_307161285.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_91280748_4174018169.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_329969645_2812903580.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_2914957928_4291002767.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_418532195_3828168139.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_329969645_1427188371.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/FadeAnimation/1442284246_3264081236_286445800.mp4'

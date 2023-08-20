@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/4266129954_1459259282_223132457.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_645682970_3879414196.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_4186673524_3462675996.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_3494453997_4174018169.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_645682970_2835378047.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_1347518009_1918810124.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_2872756809_3828168139.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_645682970_1196255642.mp4'
+file 'file:D:/dz/Manim/media/videos/main/480p15/partial_movie_files/ArrowShapes/1442284246_990858984_29849859.mp4'
